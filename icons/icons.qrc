@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/icons/shape">
+        <file alias="crown.svg">shape_crown.svg</file>
+        <file alias="circle.svg">shape_circle.svg</file>
+        <file alias="blackboard.svg">shape_blackboard.svg</file>
+        <file alias="pentagram.svg">shape_pentagram.svg</file>
+        <file alias="thincircle.svg">shape_thincircle.svg</file>
+        <file alias="dashedcircle.svg">shape_dashedcircle.svg</file>
+    </qresource>
+    <qresource prefix="/icons/info">
+        <file alias="help.svg">info_help.svg</file>
+        <file alias="back.svg">info_back.svg</file>
+        <file alias="right.svg">info_right.svg</file>
+    </qresource>
+    <qresource prefix="/icons/number">
+        <file alias="c0.svg">number_c0.svg</file>
+        <file alias="c1.svg">number_c1.svg</file>
+        <file alias="c2.svg">number_c2.svg</file>
+        <file alias="c3.svg">number_c3.svg</file>
+        <file alias="c4.svg">number_c4.svg</file>
+        <file alias="c5.svg">number_c5.svg</file>
+        <file alias="c6.svg">number_c6.svg</file>
+        <file alias="c7.svg">number_c7.svg</file>
+        <file alias="c8.svg">number_c8.svg</file>
+        <file alias="c9.svg">number_c9.svg</file>
+        <file alias="c10.svg">number_c10.svg</file>
+        <file alias="question.svg">number_question.svg</file>
+        <file alias="division.svg">number_division.svg</file>
+        <file alias="minus.svg">number_minus.svg</file>
+        <file alias="multiplication.svg">number_multiplication.svg</file>
+        <file alias="plus.svg">number_plus.svg</file>
+    </qresource>
+</RCC>
